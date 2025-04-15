@@ -1,0 +1,6 @@
+[submodule "JAVA-TERMINAL"]
+	path = JAVA-TERMINAL
+	url = https://github.com/daniilocl/JAVA-TERMINAL.git
+[submodule "sistema-smart-tv"]
+	path = sistema-smart-tv
+	url = https://github.com/daniilocl/sistema-smart-tv.git
